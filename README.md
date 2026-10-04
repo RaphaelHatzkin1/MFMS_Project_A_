@@ -79,7 +79,7 @@ MFMS/
 | Student 1 | Employee Management |
 | Jordan Nakale | Budget Management |
 | Student 3 | Supplier Management |
-| Student 4 | Asset Management |
+| Raphael Hatzkin | Asset Management |
 | Maandag Hanseb | Reports |
 | Asteria | Functions, integration and validation |
 | Genofefa Venomusheko | Testing, documentation and Git coordination |
